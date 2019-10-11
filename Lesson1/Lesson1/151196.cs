@@ -55,7 +55,7 @@ namespace ConsoleApp4
             int cyfra, wynik = 0;
             cyfra = int.Parse(Console.ReadLine());
             if(cyfra < 15 && cyfra >5)
-                while (wynik != 0)
+                while (cyfra != 0)
             {
                     cyfra-=1;
                     wynik += cyfra;

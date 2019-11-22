@@ -62,7 +62,5 @@ namespace Zaliczenie
         {
             Console.WriteLine("Współrzędne" + (kamień + x + y));
         }
-    }
-
-
+    }    
 }

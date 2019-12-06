@@ -24,6 +24,9 @@ namespace ConsoleApp1
             książka1.Książka();
             czasopismo1.WypiszInfo();
             katalog1.DodajPozycje();
+            katalog1.WyszukajPoTytule();
+            katalog1.WyszukajPole();
+            katalog1.WypiszWszystko();
 
             Console.ReadKey();
             Console.WriteLine("Hello World!");

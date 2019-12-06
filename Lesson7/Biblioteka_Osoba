@@ -83,8 +83,26 @@ namespace ConsoleApp1
             string książka;
             List<Pozycja>.Add((Książka) || (Czasopismo));
         }
+
+        public string WyszukajPoTytule()
+        {
+            string tytuł;
+            if (tytuł = string.Parse(Console.ReadLine()));
+            this.tytuł = tytuł;
+        }
+
+        public int WyszukajPole()
+        {
+            int pole;
+            if (pole = int.Parse(Console.ReadLine())) ;
+            this.id = pole;
+        }
+
+        public void WypiszWszystko()
+        {
+            Console.Write("Tytul:" + WyszukajPoTytule());
+            Console.Write("Pole:" + WyszukajPole());
+        }
+
     }
-
-
-
 }

@@ -80,7 +80,6 @@ namespace ConsoleApp1
 
         public void DodajPozycje()
         {
-            string książka;
             List<Pozycja>.Add((Książka) || (Czasopismo));
         }
 

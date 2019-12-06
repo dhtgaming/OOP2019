@@ -6,12 +6,12 @@ namespace ConsoleApp1
 {
     interface IZarzadzanieKatalogiem
     {
-        void WyszukajPoTytule()
+        string WyszukajPoTytule()
         {
 
         }
 
-        void WyszukajPole()
+        int WyszukajPole()
         {
 
         }
